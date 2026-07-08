@@ -1,0 +1,21 @@
+fund_id,fund_name,category,provider,currency,risk_level
+FND001,Cahaya Equity Growth Fund,Equity,Cahaya Asset Management,MYR,High
+FND002,Mutiara Balanced Fund,Balanced,Mutiara Capital,MYR,Medium
+FND003,Wawasan Bond Fund,Bond,Wawasan Invest,MYR,Low
+FND004,Seri Emas Shariah Equity Fund,Equity (Shariah),Seri Emas AMB,MYR,High
+FND005,Nusantara Money Market Fund,Money Market,Nusantara Wealth,MYR,Low
+FND006,Puncak Dividend Fund,Equity,Puncak Asset Management,MYR,Medium
+FND007,Gemilang Fixed Income Fund,Bond,Gemilang Capital,MYR,Low
+FND008,Berlian Tech Equity Fund,Equity,Berlian Invest,MYR,High
+FND009,Harmoni Conservative Fund,Balanced,Harmoni AMB,MYR,Low
+FND010,Sejahtera Growth Fund,Equity,Sejahtera Wealth,MYR,High
+FND011,Bestari Shariah Bond Fund,Bond (Shariah),Bestari Capital,MYR,Low
+FND012,Cemerlang Asia Pacific Fund,Equity,Cemerlang Asset Mgmt,MYR,High
+FND013,Damai Retirement Fund,Balanced,Damai Invest,MYR,Medium
+FND014,Elang Small Cap Fund,Equity,Elang Capital,MYR,High
+FND015,Fajar Shariah Money Market Fund,Money Market (Shariah),Fajar AMB,MYR,Low
+FND016,Gagah Infrastructure Fund,Equity,Gagah Wealth,MYR,Medium
+FND017,Harapan Global Bond Fund,Bond,Harapan Capital,USD,Medium
+FND018,Impian REIT Fund,REIT,Impian Asset Mgmt,MYR,Medium
+FND019,Jaya Dynamic Allocation Fund,Balanced,Jaya Invest,MYR,Medium
+FND020,Kesuma ESG Equity Fund,Equity,Kesuma Capital,MYR,High

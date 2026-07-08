@@ -1,0 +1,12 @@
+RUBRIC_INTERNAL.md
+Software_Engineering_Intern_JD.docx
+
+.DS_Store
+__pycache__/
+*.pyc
+*.db
+.venv/
+.env
+*.egg-info/
+.ipynb_checkpoints/
+track-b/charts/
