@@ -81,7 +81,7 @@ If assigned both tracks, your Track A pipeline should feed your Track B analysis
      -x ".git/*" -x ".DS_Store"
    ```
 
-3. Email the zip file to your recruiter/HR contact, with your full name and the track(s) you completed in the subject line (e.g. `Cashku Case Study — Jane Tan — Track A`)
+3. Email the zip file to **gauri@cashku.my**, with your full name and the track(s) you completed in the subject line (e.g. `Cashku Case Study — Jane Tan — Track A`)
 
 ---
 
