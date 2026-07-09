@@ -69,10 +69,19 @@ If assigned both tracks, your Track A pipeline should feed your Track B analysis
 
 ## Submission
 
-1. Fork this repo, then clone your fork
-2. Create a branch named `submission/<your-name>`
-3. Commit your work with clear, descriptive commit messages
-4. Push to your fork and open a pull request against this repo
+1. Clone this repo and complete your work locally
+2. Zip your completed project folder, excluding generated/junk files:
+
+   ```bash
+   cd cashku-case-study
+   zip -r submission-<your-name>.zip . \
+     -x "*.pyc" -x "__pycache__/*" -x "*/__pycache__/*" \
+     -x "*.db" -x ".venv/*" -x ".env" -x "*.egg-info/*" \
+     -x ".ipynb_checkpoints/*" -x "*/.ipynb_checkpoints/*" \
+     -x ".git/*" -x ".DS_Store"
+   ```
+
+3. Email the zip file to your recruiter/HR contact, with your full name and the track(s) you completed in the subject line (e.g. `Cashku Case Study — Jane Tan — Track A`)
 
 ---
 
